@@ -1,0 +1,4 @@
+rootProject.name = 'UIMM'
+include ':app'
+include ':uimm-widget'
+include ':uimm-core'
